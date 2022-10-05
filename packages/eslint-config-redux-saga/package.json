@@ -8,8 +8,8 @@
     "redux",
     "redux-saga"
   ],
-  "homepage": "https://github.com/kilohealth/eslint-config",
-  "repository": "https://github.com/kilohealth/eslint-config",
+  "homepage": "https://github.com/alarm109/test-release-eslint-config",
+  "repository": "https://github.com/alarm109/test-release-eslint-config",
   "license": "MIT",
   "author": "Kilo.Health",
   "main": "./index.js",
