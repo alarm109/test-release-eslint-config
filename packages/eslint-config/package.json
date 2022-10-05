@@ -1,5 +1,5 @@
 {
-  "name": "@kilohealth/eslint-config",
+  "name": "@kilohealth/test-eslint-config",
   "version": "1.0.1",
   "description": "Eslint preset",
   "keywords": [

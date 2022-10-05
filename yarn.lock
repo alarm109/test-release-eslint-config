@@ -597,9 +597,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kilohealth/eslint-config-redux-saga@workspace:packages/eslint-config-redux-saga":
+"@kilohealth/test-eslint-config-redux-saga@workspace:packages/eslint-config-redux-saga":
   version: 0.0.0-use.local
-  resolution: "@kilohealth/eslint-config-redux-saga@workspace:packages/eslint-config-redux-saga"
+  resolution: "@kilohealth/test-eslint-config-redux-saga@workspace:packages/eslint-config-redux-saga"
   dependencies:
     eslint: ^7
     eslint-plugin-redux-saga: ^1
@@ -611,9 +611,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@kilohealth/eslint-config@workspace:packages/eslint-config":
+"@kilohealth/test-eslint-config@workspace:packages/eslint-config":
   version: 0.0.0-use.local
-  resolution: "@kilohealth/eslint-config@workspace:packages/eslint-config"
+  resolution: "@kilohealth/test-eslint-config@workspace:packages/eslint-config"
   dependencies:
     "@babel/core": ^7.19.3
     "@babel/eslint-parser": ^7.19.1

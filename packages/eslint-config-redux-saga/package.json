@@ -1,5 +1,5 @@
 {
-  "name": "@kilohealth/eslint-config-redux-saga",
+  "name": "@kilohealth/test-eslint-config-redux-saga",
   "version": "0.0.1",
   "description": "Eslint preset for redux saga",
   "keywords": [
