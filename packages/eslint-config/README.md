@@ -10,6 +10,8 @@ Kilo.Health ESLint config for React Native, React and Node.js projects.
 
 ### Install dependencies
 
+Testing
+
 `yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-prettier eslint-plugin-promise eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-native eslint-plugin-react-native-a11y eslint-restricted-globals prettier @babel/core @babel/eslint-parser`
 <details>
 <summary>
