@@ -1,3 +1,10 @@
+## [@kilohealth/test-eslint-config-v2.0.2](https://github.com/alarm109/test-release-eslint-config/compare/@kilohealth/test-eslint-config-v2.0.1...@kilohealth/test-eslint-config-v2.0.2) (2022-10-06)
+
+
+### Build System / Dependencies
+
+* add markdownReleaseNotes flag true ([0ce2412](https://github.com/alarm109/test-release-eslint-config/commit/0ce2412398659ac58fe210be745b947c7804f4d1))
+
 ## [@kilohealth/test-eslint-config-v2.0.1](https://github.com/alarm109/test-release-eslint-config/compare/@kilohealth/test-eslint-config-v2.0.0...@kilohealth/test-eslint-config-v2.0.1) (2022-10-06)
 
 
