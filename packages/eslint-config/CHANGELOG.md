@@ -1,3 +1,10 @@
+## [@kilohealth/test-eslint-config-v2.0.1](https://github.com/alarm109/test-release-eslint-config/compare/@kilohealth/test-eslint-config-v2.0.0...@kilohealth/test-eslint-config-v2.0.1) (2022-10-06)
+
+
+### Build System / Dependencies
+
+* post to slack on success ([ccd24bb](https://github.com/alarm109/test-release-eslint-config/commit/ccd24bb7e28c44c060bdc1b784621552bedb9f04))
+
 ## [@kilohealth/test-eslint-config-v2.0.0](https://github.com/alarm109/test-release-eslint-config/compare/@kilohealth/test-eslint-config-v1.0.0...@kilohealth/test-eslint-config-v2.0.0) (2022-10-05)
 
 
